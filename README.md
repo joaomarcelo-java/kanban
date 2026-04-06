@@ -217,7 +217,7 @@ services:
       - "5432:5432"
 volumes:
   postgres_data:
-  
+
 ```
 
 > Dados de exemplo — altere as credenciais se necessário.
@@ -231,7 +231,6 @@ docker compose up -d
 ### 4. Configure e inicie a API
 
 ```bash
-cd backend
 npm install
 ```
 
