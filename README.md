@@ -233,7 +233,7 @@ docker compose up -d
 npm install
 ```
 
-No arquivo `.env`:
+Renomeie o arquivo `.env.example` para `.env` e insira:
 
 ```env
 DATABASE_URL="postgresql://postgres:postgres@localhost:5432/kanban"
