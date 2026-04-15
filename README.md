@@ -1,8 +1,7 @@
-# 📋 Desafio Kanban — FieldControl
+# 📋 Kanban
 
 Aplicação de gerenciamento de tarefas no estilo Kanban, com suporte a múltiplos boards, drag-and-drop e persistência total de dados.
 
-Vídeo demonstrativo: https://jam.dev/c/7802a104-143e-48d4-8cec-54754580b738
 ---
 
 ## ✨ Funcionalidades
@@ -197,8 +196,8 @@ Estética minimalista inspirada no Notion — off-whites (`#f7f7f5`), bordas sut
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/kanban.git
-cd valinor/backend
+git clone https://github.com/joaomarcelo-java/kanban.git
+cd kanban/backend
 ```
 
 ### 2. Configure o `docker-compose.yml`
@@ -260,10 +259,6 @@ npm start
 > Aplicação disponível em `http://localhost:4200`
 
 ---
-## 🚀 Como acessar online
-https://kanban-joao-marcelo.netlify.app/
-(Entre no site, aguarde 2 ou 3 minutos e recarregue para funcionar
-o render demora para iniciar.)
 
 ## 🧪 Como rodar os testes
 
